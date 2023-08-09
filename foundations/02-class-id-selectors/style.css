@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.number-1 {
+    background-color: pink;
+    font-size: 28px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 48px;
+}
+
+.number-3 {
+    background-color: pink;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: greenyellow;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.number-5 {
+    background-color: pink;
+    font-size: 28px;
+}
